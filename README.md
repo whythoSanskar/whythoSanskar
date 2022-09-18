@@ -9,7 +9,6 @@
 <p align="left">
 <a href="https://twitter.com/whythosanskar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="whythosanskar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sanskar-mishra0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanskar-mishra0" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/user:17994658" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:17994658" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sanskar_m21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sanskar_m21" height="30" width="40" /></a>
 </p>
 
